@@ -1,0 +1,21 @@
+kubectl:
+     version: v1.21.0
+     url: https://storage.googleapis.com/kubernetes-release/release/v1.21.0/bin/linux/amd64/kubectl
+kubeval:
+     version: v0.16.1
+     url: https://github.com/instrumenta/kubeval/releases/download/v0.16.1/kubeval-linux-386.tar.gz
+kube-score:
+     version: v1.11.0
+     url: https://github.com/zegl/kube-score/releases/download/v1.11.0/kube-score_1.11.0_linux_amd64
+config-lint:
+     version: v1.6.0
+     url: https://github.com/stelligent/config-lint/releases/download/v1.6.0/config-lint_Linux_i386.tar.gz
+copper:
+     version: 2.0.1
+     url: https://github.com/cloud66-oss/copper/releases/download/2.0.1/linux_amd64_2.0.1
+conftest:
+     version: v0.24.0
+     url: https://github.com/open-policy-agent/conftest/releases/download/v0.24.0/conftest_0.24.0_Linux_x86_64.tar.gz
+polaris:
+     version: 3.2.1
+     url: https://github.com/FairwindsOps/polaris/releases/download/3.2.1/polaris_3.2.1_linux_386.tar.gz
