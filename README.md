@@ -22,5 +22,5 @@ polaris:
 https://hub.docker.com/repository/docker/jonguijarro/kube-test
 
 ```bash
-docker pull jonguijarro/kube-test
+docker pull jonguijarro/kube-test:0.0.1
 ```
