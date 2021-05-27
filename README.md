@@ -18,3 +18,9 @@ conftest:
 polaris:
      version: 3.2.1
 ```
+
+https://hub.docker.com/repository/docker/jonguijarro/kube-test
+
+```bash
+docker pull jonguijarro/kube-test
+```
